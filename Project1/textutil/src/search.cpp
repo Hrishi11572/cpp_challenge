@@ -16,6 +16,8 @@ void find(const std::string& filepath, const std::string query) {
     }
 
     int lines = 1; 
+    bool found = false; 
+
     for(auto sentence :  result){
         std::stringstream ss (sentence); 
         std :: string word; 
@@ -23,9 +25,14 @@ void find(const std::string& filepath, const std::string query) {
         while(ss >> word) {
             if (word == query) {
                 std::cout << word << " found at line no. " << lines << std::endl; 
+                found = true; 
             }
         }
 
         lines++; 
+    }
+
+    if(!found) {
+        std::cerr << query << " not found in the sample file" << std::endl; 
     }
 }
