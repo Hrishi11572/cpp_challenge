@@ -1,4 +1,4 @@
-#include "file_io.hpp"
+#include "textutil/file_io.hpp"
 #include<fstream>
 #include<iostream>
 #include<sstream>
@@ -8,7 +8,6 @@ std::string read_file_contents(const std::string& file_path){
 
     if (!file.is_open()){
         std::cerr << "Error Opening File!" << std::endl; 
-        return; 
     }
 
     std::ostringstream buffer; 

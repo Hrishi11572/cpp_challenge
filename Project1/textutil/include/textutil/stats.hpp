@@ -12,5 +12,5 @@ public:
     std :: size_t get_line_counts() const; 
     std :: size_t get_word_counts() const; 
     std :: size_t get_byte_counts() const; 
-    void calculate_file_stats(const std::string& contents) const;
+    void calculate_file_stats(const std::string& contents);
 };
