@@ -13,7 +13,7 @@ textutil --version
 #include "textutil/stats.hpp"
 #include "textutil/file_io.hpp"
 #include "textutil/search.hpp"
-
+#include "textutil/report.hpp"
 
 int main(int argc, char* argv[]) {
     if(argc < 2){
@@ -74,6 +74,7 @@ int main(int argc, char* argv[]) {
         }
 
         // TODO: Generate the report.
+        write_report(argv[argc-1], argv[argc-2]); 
         return 0;
     }
 
