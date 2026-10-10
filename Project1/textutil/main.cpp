@@ -10,7 +10,9 @@ textutil --version
 
 #include<iostream>
 #include<string_view>
-#include "textutil/search.hpp"
+#include "textutil/stats.hpp"
+#include "textutil/file_io.hpp"
+
 
 
 int main(int argc, char* argv[]) {
@@ -29,6 +31,7 @@ int main(int argc, char* argv[]) {
             << "  textutil report <input-file> <output-file>\n";
         return 0;
     }
+
     if (command == "stats") {
         if (argc != 3) {
             std::cerr << "Usage: textutil stats <input-file>\n";
@@ -36,7 +39,15 @@ int main(int argc, char* argv[]) {
         }
 
         // TODO: Calculate and print statistics.
-        std::cout << "DO SOME STATS" << std::endl; 
+        const std::string file_path = argv[argc-1]; 
+        const std::string contents = read_file_contents(file_path); 
+
+        FileStats stats;
+        stats.calculate_file_stats(contents);
+
+        std::cout << "Lines : " << stats.get_line_counts() << std::endl; 
+        std::cout << "Word : " << stats.get_word_counts() << std::endl; 
+        std::cout << "Bytes : " << stats.get_byte_counts() << std::endl; 
         return 0;
     }
 
