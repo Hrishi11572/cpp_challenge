@@ -12,6 +12,7 @@ textutil --version
 #include<string_view>
 #include "textutil/search.hpp"
 
+
 int main(int argc, char* argv[]) {
     if(argc < 2){
         std::cerr << "Usage: textutil <command> [arguments]\n";
