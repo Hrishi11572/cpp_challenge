@@ -12,7 +12,7 @@ textutil --version
 #include<string_view>
 #include "textutil/stats.hpp"
 #include "textutil/file_io.hpp"
-
+#include "textutil/search.hpp"
 
 
 int main(int argc, char* argv[]) {
@@ -58,6 +58,11 @@ int main(int argc, char* argv[]) {
         }
 
         // TODO: Search the file.
+        const std::string filepath = argv[argc-2]; 
+        const std::string query = argv[argc-1]; 
+
+        // call to find function, which prints data to the screen.
+        find(filepath, query); 
         return 0;
     }
 

@@ -1,3 +1,4 @@
 C++ is a compiled language.
 C++ gives programmers control over memory.
 Learning systems programming takes practice.
+I have fallen in love with compiled langauges.
