@@ -1,0 +1,21 @@
+# The Problem statement
+
+The objective is to build a command-line application that reads text files, analyzes their contents, searches for text, and writes statistical reports. You will use this project to practice C++ fundamentals and learn how real programs are organized across multiple source files.
+
+For the initial version, define a word as a sequence of non-whitespace characters. Treat the search as case-sensitive unless you decide to add a case-insensitive option later. 
+
+
+Project Structure: 
+
+textutil/
+├── main.cpp
+├── include/
+│   └── textutil/
+│       ├── stats.hpp
+│       ├── file_io.hpp
+│       └── search.hpp
+├── src/
+│   ├── stats.cpp
+│   ├── file_io.cpp
+│   └── search.cpp
+└── README.md
