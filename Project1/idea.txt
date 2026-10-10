@@ -19,3 +19,24 @@ textutil/
 │   ├── file_io.cpp
 │   └── search.cpp
 └── README.md
+
+
+Working commands: 
+
+1. Command 1 / Calculate Statistics
+        ./textutil stats input.txt
+
+2. Command 2 / Search Text 
+        ./textutil search input.txt "memory"
+
+3. Command 3 / Generate a Report 
+        ./textutil report input.txt report.txt
+
+
+Your project is complete when:
+- All three commands work as specified.
+- Missing files and invalid arguments produce useful error messages.
+- Statistics are correct for empty files, multiline files, and files with repeated whitespace.
+- The source code is split across headers and implementation files.
+- You can compile and link the program from the terminal.
+- You can explain what each module does and why its interface is designed that way.
