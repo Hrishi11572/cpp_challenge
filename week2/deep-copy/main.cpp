@@ -3,14 +3,23 @@
 class Gandalf {
 public: 
     int* data; 
-    // constructor for copy 
+    // constructor for new object creation 
     explicit Gandalf(int value)
             : data(new int (value)) {}; 
             
-    // constructor for deep-copy 
+    // the copy constructor for deep-copy 
     Gandalf(const Gandalf& other)
             : data(new int (*other.data)) {};
     
+    // copy assignment operator overloading 
+    Gandalf& operator=(const Gandalf& other){
+        if (this != &other) {
+            *data = *other.data; 
+        }
+        return *this; 
+    }
+
+
     ~Gandalf() {
         delete data; 
     }
@@ -20,7 +29,7 @@ public:
 
 class Sauron {
 public: 
-    int* data; 
+    int* data; // for classes containing pointers, this type of construction is erroneous 
 
     Sauron (int value) 
             : data(new int (value)) {}; 
@@ -53,11 +62,11 @@ int main() {
 }
 
 /* 
-SAMPLE OUTPUT: 
-Data of a : 34
-address of a's data pointer : 0x16bbc2680
-Data of b : 34
-address of b's data pointer : 0x16bbc2678
+    SAMPLE OUTPUT: 
+    Data of a : 34
+    address of a's data pointer : 0x16bbc2680
+    Data of b : 34
+    address of b's data pointer : 0x16bbc2678
 
-same value stored, but the pointers are different. 
+    same value stored, but the pointers are different. 
 */
