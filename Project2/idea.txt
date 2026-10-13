@@ -1,0 +1,33 @@
+# What do you have to build?
+
+Build a small C++ library that manages a dynamically allocated array of integers and handles memory automatically.
+
+For example, you should be able to write:
+
+        Buffer a(5);        // Allocate space for 5 integers
+        Buffer b = a;       // Deep copy
+        Buffer c = std::move(a); // Transfer ownership
+
+        b.resize(10);      // Resize the buffer
+
+
+Your library must implement four core operations:
+
+1. Allocation and cleanup: Allocate memory in the constructor and release it in the destructor.
+
+2. Resizing: Increase or decrease capacity while preserving existing elements where possible.
+
+3. Copying: Implement deep copying so two buffers own independent memory.
+
+4. Moving: Transfer ownership of memory without unnecessarily copying all the elements.
+
+
+PS: 
+
+The Rule of 5 says: 
+
+1. Destructor
+2. Copy constructor
+3. Copy-assignment operator
+4. Move constructor
+5. Move-assignment operator
