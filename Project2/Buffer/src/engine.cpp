@@ -113,3 +113,10 @@ const int& Buffer::operator[](std::size_t idx) const {
 
     return data_[idx]; 
 }
+
+std::ostream& operator<<(std::ostream& os, const Buffer& b){ // its a non member function 
+    for(std::size_t i =0; i<b.size_; i++) {
+        os << b.data_[i] << " "; 
+    }
+    return os; 
+}

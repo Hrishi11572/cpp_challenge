@@ -2,6 +2,7 @@
 
 #include <cstddef>
 #include <initializer_list>
+#include<iosfwd>
 
 
 class Buffer {
@@ -31,6 +32,8 @@ public:
     int& operator[](std::size_t idx);
     
     const int& operator[](std::size_t idx) const;
+
+    friend std::ostream& operator<< (std::ostream&os, const Buffer& b); 
 
     // destructor 
     ~Buffer();
