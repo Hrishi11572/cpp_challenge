@@ -37,6 +37,5 @@ int main() {
         std::cerr << "Error occurred: " << e.what() << '\n';
         return 1;
     }
-
     return 0;
 }
