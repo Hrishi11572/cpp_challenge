@@ -12,6 +12,14 @@ Buffer::~Buffer() {
     delete[] data_; 
 }
 
+// initializer list based construction 
+Buffer::Buffer(std::initializer_list<int> values)
+        : size_(values.size()), data_(size_ ? new int [size_] : nullptr) 
+{
+    std::copy(values.begin(), values.end() , data_);         
+}
+
+
 // constructor for deep copy 
 Buffer::Buffer(const Buffer& other)
             : size_(other.size_), data_(other.size_ ? new int [other.size_]: nullptr) {
@@ -67,7 +75,7 @@ Buffer& Buffer::operator=(Buffer&& other) noexcept {
     return *this; 
 }
 
-void Buffer::resize(const int n) {
+void Buffer::resize(const std::size_t n) {
     // resize the Buffer to n 
 
     if(n == size_) {

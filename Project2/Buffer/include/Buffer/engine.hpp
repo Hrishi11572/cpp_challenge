@@ -1,12 +1,17 @@
 #pragma once 
 
 #include <cstddef>
+#include <initializer_list>
+
 
 class Buffer {
 public: 
     // call constructor 
     explicit Buffer(std::size_t n); 
     
+    // Construction based on initializer list 
+    Buffer(std::initializer_list<int>); 
+
     // deep copy 
     Buffer(const Buffer& other);
 
@@ -20,7 +25,7 @@ public:
     Buffer& operator=(Buffer&& other) noexcept; 
 
     // resize method 
-    void resize(const int); 
+    void resize(const std::size_t);
 
     // operator [] | random access 
     int& operator[](std::size_t idx);
