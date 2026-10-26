@@ -1,0 +1,1589 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Concurrent Data Processing Engine \204 Product Specification \050Corrected Layout\051)
+/Author (OpenAI)
+/Subject (Corrected layout and pagination)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 11
+/Kids [ 4 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 28 0 R 31 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1047
+>>
+stream
+Gasama`?,q&A@B[qPYYHN/\5-jsZ85;cBu31HFOuOcYBPM[VjOr:e[52J[,/VR3Q-2S/FED?^e>D"oYfJ56>RHssfM'FS<381=IgX((]\qMIMGMbZ#o\O\_kP`mq8'$n94OG`ZAn2S;OlqgM,-sC"X&<Wk.DA3fk&aN_MiP;dE"%'>!$3l/T76(o3'PAl)-&eb2Zg"srql<j#T.c,GG>S2?.,Mk^S-[7N^<8LM]>'nC4ZqNDY2O,=I5AJR,%I9<#gF[M"X;$kDdu?/QPbNLAO]T@P,X].ptT3'/Pk>F)<&7O1QTn-7e5V:F+!0IC0_&5.oY/U/Tn:G2Z`MSj6"MWo>\/qK+=b9?'rFhh+`:MXr?=JTNt^T@*5]s#$5*<LW0s\bjesN)oL_3+ZlbDh&SI_Le[E(s,hq%&;<+D.l>Ea&q\ma1-5V$N]:i/jR3ZnSFS3sOq^?rJ0YG&P/7+iW#IM!J9o5k*#B&HS?"<Lj@/nYU*YjgkCRZEmtok`*IY:@s1E#t#!\5;#gY$mf0IPWZnY6=HiX35;#h[A=ZYBI[TgTP<''6Q<>t=Gk@d+-8=FJcEP0,tcu*R7lN3F2>MV+LB_kWeUKogpILNV?\hY#EFXV#Zh9pHN(;5@b_tTksYo[P]ML@D>/j!2/\p4BUmi2DK;F^PkdqCL=Bnr$/NV+mI%G!8,X!c_gG_Lk!d:*#^)OZdWk'q7g8JU3A]e[hU5\.n8m&W=C$FS!"Sl$]l8J8^'1@u5W/41.l?Z+nu+4,;cGTCsUr(<5C(Pq8]7.BI>;"j5e3V=!\;!hIf&N9:J0TO.AD*:jH\W0AeQ!'aq*]CDqe+>>$gSUG+Q8OP146p\CD7+<M\mIB2-C@'SDa;4o)[@>:1gmqnrg*X)L@uWoA&]nVm,E:dpGg+82Sc26^H@&d>^4J51,B,MS2U3ScEjYa(g/cN[Li-KgmP.mR&,WtHUc+O2ZO.p?hV.6Jl3e4_Od$XkPPn\rs*04f">NB,u![ge+gOp5,)VA_@MrD^f.`p6U+(-3T]LFY+;*;@=ch@@cP4g~>
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2152
+>>
+stream
+Gau0Cb>R(c']&?qGKD+"dF5DRObBO/RRJR5AiA>LV7,2G;CgQTN:Z^`DG,FDTE;*g!$b.m]!$2#]cBt+T?)MJ%FNoj^%i4:'[qG$;&Z5es-kY(-f7[N=V_c/$>-VYS7`NM8KML^IK"I(A@+@2.>rd3:8TbBEKEW.[%N/Z1_&I2kZ1F0-_lY@qd?3:/Hj0Pc,1t6.2IXlPif;/M9)cC6T"YM2\Jo=+tfUCjpdlqdr!bW,?m\,KbO+#kYbTbg(do%/(I8g'$!#iY56SoFXKhi<2FP+[sug'/'VG+$cdGM0M#hjG2LRmZ'#eCmJ$pCfl+u&fCEVoj<6i<)pVYI`">CO&]PO'8J+JA#@W=NZ%4hU@Z"cfPrRa0S43NbhT<'Il;j)8Rmre44nF^r&B7"UE$.cJ-q@b,&>n-5`tB=hRKTB!&J[Uk!K[GhpZ$+olA>_0)D8DI=j8t/37Zh.eT+3gC8oUG1bHCfrL2MF3&4B2(>I_Ps%?!bb6ck)<mD?X)-L^,a/X9N(;c>PBd^M8:G':]I4[$f[(.>W)K#:M96DU4lEm]c0E!\@@*DiDOQc1_m'1ujC#cEqGLH84o@(.BNDU/n.d<aC<3**!-0a9/]aOPRkA.Vdb-#lJ'Hl18<Co/X<R]K]H7R7n;O![O6m)rA-#M4hP2ooHa3<ar[2tpKU*f17E7c+$#e?*-]Q3L:*hq4KI'd,DAA_/G[;(>d(Oh7BjMcgK_B=-(n=5&IUlF@PfhNE\F0S0>-.TRp3-'PJ*X_?D;@Bft5o:eY7h?O_3i>^iVu.;_h.-bcI00,gfk)NlM3$6<gS&kBiI[!I=2=n^D-o@Dd$=@2eIDb_:fF,)4]d-;lh=F`N[l)eFcK+&j:L@F!2B0q>]^&BK4"t+o:5_+a^b-B`rFN39>D)6%h@Z]#>p.>E:tsR"S*&[(,`b6%M3?9L7^PjA`9m=:J5mAkme&FQfbfM%dOIV8]lLjF>i1:[)dkZSg@@o[\UC9]\-pigN42F#CJrB^3k<09HfE%jYF-N@_pdV5rG>?,unR[V&=9S%$/R@F9Zb[+!Hg7W%t@VO[lMS=&Hn*O>d"4QFcLRQE70!aY740*Ah4jRFoVR#r]AO#<_@VN+h.>FUUJbGPX0W_DG:OURj3&ATb5hmb8\^h8pT2)eZRk"`Kp82jSQtPIE?K^<9C'][Z=o1+k0QI?0f$A&ZLnLlaFu6lYs(BBfu3a[Q_2kG:@<aNgs+GTI;+@Y$B"4U;X>\s@1P=UX,K&0GqNpVMK4L.bWbO(b>4"Wl,"U-Xg#X2pt-iesV6i>EVL7(q*I6-Y07ZG.A4/VU2JR[2d0<9XCL;%Q]2epV[/hqmTe0_6IY8-Q3MO^%ot["+W]`-Ppc60eqH_!e)lIqr(\Q;]kqbcQYT!=-@`bKoZ+b_+RVKcZaWGb2NC7.8gdbjgeW'qKf1nsoFF<4P.V1t;e.HACA$Yc@u$h[6-G[(,?N"=Wp?`NFPhl-2aEGur/6Y=F,6=EuUeo0-?,3nQ9]r^sClp7pt:*\GBrTuET:I$VdT<B$Vt(KXZO6s01KqR5Fgp'mVR7IpKiJ4:(TJlQk5#%!<aWg:NKRaoTo5smR9?L5m_F[-;qF&869ZPPRp(Y&B]rFt\I:aTFA=<8$_^MGT,q2:NcrGX&`.jJ+c\iEG]&-cO;<o77fmA0N@d/J\"6<jXmC@!',ZL_QH>6sj)4CQ>j4LlUT*a'd7]4:4t=?^a.]?njRZBZ_J;iGm(X6^4'%;1/)g"1Q72?F?b>7[&@aF&Kop#7qSBac]^e^qjLnC'R'^/V.^f+BN=p.%aS:f/<$]90rsX*Ma,^n&]ta"m2.')Td!mUUc/7uu'D3Ar0K?Mn$*k6ojbG%!^=cj8j-L4o=f@[pbX]6>eUf32[[31`QdVVAgf+HXW=3kc*#jF/Y?`Z*g<G?!qohYP]*>:MkBpb%N7Xn;n(Nk*<)jYk!D'EF\fhosD^bsr_EPP#A,UGp?S/E@)\WORRB]f-=&nHjJ_Ng_PE[!YXAdE^`90s7DDbK&.HqUE$$h3WTc!k)<[D^8L9@ttAqV#gD+)fu=i$0^C-7!jDC)G\GB#aPO)'uOOSD@[Bi;\d5=e]LclX@L=aU,H$n:=(-RG`L`]'<2KrE]dVhm6kgc8#)7%0g#071j&:QSZF]=~>
+endstream
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2822
+>>
+stream
+GauHN8TWXr'#+6Eo[.SHVR]WqS2/AfR;rq\G%N@JJOi<u64sV*H?m:)Fb>T#5>.je-C(lB,RF&5oo=:Ti]kcgc:WUOYMo,5#G)IX9CP7qK^3](I=:bTaI,P93X9:]O8U=*-Og\QMW"'mOV>Ru;$E*F\:,"d&Gf/_V/Zhg6t,<SdGS"*=%=j%"SX(%[&)[`EL=6j3$Eb7,,$]YLOf\F72rn*c^oq74/niu!F1t1HmYnq<f0r_?89@U6HP1%/ZKPuY#_:Vn?;:.oK'03"'6G5M5A:\&[M6D>^q=jhhZt0*T)"VGo5qs\R6ot_-k;2<(t%QBj"*gcq.IV+Y--&DBjqsKrOBjis2RP`=Kn-+X-ucDg_':U_Q*:[2f&R>\.rnJQ4^H>4r^2<XZl>'Nabmni/RWl3(=/][66_e?\Ne+2lH7>/m2QnJ[EM_#;h&!lqcDrQUTs`Sl#PXUQg@jLc$3Y*e1e4Y1,LjZIbFNMqM:!s;i7U6m+]Kj]gj")fkrn>0)4>+QC(heK=^TjZEN7P3pDj?ae3(:E+H-fm(tj&o*Tc/A!.B@9>/o*hE]8sq4h"TcefO;fE:nR&Gh&P@)=a-7:FJ)eUZpJ=G4ZUN,WX;R-H'jW^/jfmgie;B=&.88_E$[]"Q_JR"/g@'IINSq`JOZ"\0q&>nts15Dh&/QDdc:OL8dF40er^E;NqMj?ZcaKD)]f>l6j26,cn`Y8UGJ'E(3.@IcSF3;McAq&aGhP/?8AC)QFPl&[23u8[Cj:-*XndBam]7j,ctSuWTq8)dcZ[a^BG2c%&XZ6.NV;2/]iL$\)oFmto`N6ADSt%33aRdB>tcb55j)^EnVpsW`\AH4\Te\HG6u9fFn_;tZ(pYKV#9BG`:]_QiIhmu3QpCJl>I6aVB2G^WCa;`(KWLV.=%t$?m[QI;cI$O>d;+o.136F(RP@[i0P8q(!i\up&;acYU"+!!7Lr.NrWcaRV1rtqV"M%!guVoU\5/c1,1>IajqHZ=c/(Obp/s&:T<+2Aq\O4=bXVlcRd&8VW="F&N&XsK1JGfPW/gkE12l_\3iR,R`lL);ALL=RZ@60@EQ@j\<Z?[`IQUf+=VJ:TAm9@KLuP%;c7Bb9Rf4l2h<oihh36DR$-Sh8k?p/bst#R-/j>)#T>O(;Aji)KE7$5(*&7P/c3]LG0R&l"^jrZS&;C[.=+</U(L3q8+GVo.XFd[A"qRsA?Y:C7\Ws<!sN>i?XNpi>g4s1D,-("Q)5f^Z\Yj99(<XN\l0#=F`n=Se=Y;FihsV[P2s[;N6:WgdelTAbTb]Qe:l;Y_<UY%\h6XQ"D2g%WP`L4C(-pXB%D`F8:i9V8=g#o3eA3N%JHSA)rV?Jn8&q()Reu][B)mN)R$1iYi2u*d61E9U1S^]qd1neB#"e_d?NHTM,0LDAA)1,(@+&19ASa%$u6#f#e2RY'"Ibd^eI@]M#n&'^_/"J7(%=Z^?K<<eS<43V@9&iG:60f@/ag`=:6<S8h)C=.Xm"PB`,:oR"KE*2m>^<$,ret^E62ii6i4ni.NB'aK]Ed/OLIs7WaJcMN%(b\eeApfF#;3A=ijKBA6!=)H.8KdSr)>Ci0h@J`X<!9D$0fE&O-t.F3D\WThP]Y"dBj/PsGE-@r?FJ=;GpKp"A=V_1DHi%l+GR^d!e%<+;;d3n-qeD1gC?82X4g@Q4?J)S_?6Z_[g)0@h/[rOR1Tgp#;=&sjfK"LX.*IKjAAC!QdoPV0P?ZaIJUDkc4A%uOZF2LHDU0eDjSOIqmQgDq5\7f7AbAOVlLl^AT*N'@tluTXLVe1QMqqNb-l#8(B\(&h2]VPM/+E#Gm[+@NY[HBtU@s><:5BQ4`p5WP@mATsQ&&N&$`#iN4ZE1*cJrG[/cPc))Ls<SFAjF`OOJK!):?M?23cE-3\'o_c38!\WE;Zo+,[_K4T%a^pkNus^FA[r?s.`lg%m5TQhgbCV)4\C\5,k[1m6G")I,S+n2/%V\RED37$cUVDf6HVYk3nkHAc%#EmX,#Qc^4S3\RQ"E#]p$%i%K#E^rj,oL0Be)[M[:nl0*0Jji'<@oijLc;;Du.$Y]EadbXq;B=p9W,h]4.05?+'V#'kmSLg&=Pj0ugZo;rcdrcW;DF[8:0V>M[@8g\'U`E@Km96s96L#t40P)NSTQ"g:`.@pEl%*0$Bp=<CS"`(^9nd-/o'GkG]joLD)B2)ErBM@$EjlAbj'Sk6ZY_mQ7%59/UI^*(,ZT[6KuD9(.[IZ\n$3,V$coPfY!B1+PKV_G`IjUkgVJ#L*B@_AR1Ii*p.4@IFibA9h+4>`5=Tp)oP9`dEM9qSg$bOLBP#157^\M)F.^Siq.k=UJF*lF&j2MZ?NV7s&)AUkU8YJn3q.lf.Maib@T`JHVJ/Tt:he[aBS<8\o[eiepC%df5PnH'`MmH9o:S_[l;m9-lILAq4*Riu2;&@?;X)m13uT5S>ZH)tq!o)JTS=OaX0;!5.0Oci=LWofU&]:l:=HkFLI'u$>>b1^S+A4N"1<=)F]^Qc]\;4\6[u;qc$;sJTi]Z"pl_>?Sf!EHMHMH!F/0js!"!ARil2HXm=ahOaj^iqa4*>=S6)?.\!FtdHiF"bIKj/TTFOV&6Fe=lm6s3m]*6YX)PI+Qd3QqK#j!?s'>1djT23cs^Nt`]A\;^R`#2gnHiIiMs'$WOrdebiiKIiBdf:&I`98f'Geq%7r\Ms5jOcN@`!A5]eOsURj**%AD`Y->'E!UEi_C>(JuM4lVPPqd@Ad#eC<rhe]Xdnq!IG,'?6N(_aei)XM3^RW[T!Y]`TjP(:R?3$J@W]s+f_u-\&-hu<l4=PagB="pr0u:#"S[qMc^ij~>
+endstream
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1885
+>>
+stream
+Gatm;D/U=_&H;*)0qt[7)SFkn]p#7Tj#U2i<-;^)IR-<d@tAF`L$X_g[-E/0m-Se32AN/#2TFOsloan5bT$csIq\F4.fnL#@JlDmAM@Bk%7gKJpM_uQqfG;jcq>#p8J89f"HrU9$Ua^Yiu&0^riC^5&s)i#K7K)GVGR[HKL%k*\9Fp&S$U[8N-]._D(Q;`$=YXi&tknQL4VAkHjXn*'kiN31Vt?!ZBY2>/R`m,=.,1K<#U5DR_uP71SIcSXl-3_jct?6A$N_[0U[ZbNQC[%SoL=QeT7,W$.J>oKRGr+,=)rqI66&.,p:jhp_<n[WPgBq3!r4CTaP";j5r?d#Rs[m!F^H"B_9(l%mk&>r0@@XCfHd?__Uijr2,,MnTc?i/uhSFY86nuQ^^<l;$a**k:e$E&q:.B#*d+EB]^HPMs+!1nJr;.5Z'fFVBC9')I1b!J7W'KC+U4*Bu?t%[4)l1gYfY3GY;2+^d/?2jqTNT>i6Xp7_/:%"WG_/X,YLOW/Ytmk\66J&P,cT4'q0RLVp2G9Ne>l'866dI`0.0g/OMk7<JA)*Sg0/?Z;!;F1F%PQ3<)'cQY0V[C=7:U;34:Vefn(,)B-bZK1Qa3?ao!GUT)2q\b)^U*#-=-bC'K=8H#'2OIQ_2D8=#0(T,hL<aG>>c?\%+s0H7E,`P)Q=="?P%uWbf3E?La(U9g7qcE@&[RI(P6:K55",sS%o!@.O+[uc);gmq=H%t"V&&!*f&[(nr4GTG@-IDg93s'=fd&&1WOmq[0%Dl?irZP4k/S2(f0ThsPFD*kVB&\U@H-UHJmM*d(CGbL2mTij5+\hQ0*.bH4P%]<LUdc+B']@GG_O'm!K402aNL(1D67TF=!6gU"o%=d*HX5AYX12dID+bXqE@4f7^`CNha-:n_BuV5\#bSUI!<i@m2VO0d?o)XZ%j:1\o'./ks8E!1d`*-LB@,/ApE@)JZmGZ'mbfZ>%'M949NV*-U:$/O.Y2E35Ld,qI56Qs0maSm833mp<]*P/TL`%q&_-Ud%am&:<t!9AM7b]7si?n.qgh_+c!]YN7'<7\gkG<Sf^b#T*0<?5;@R#aZ9\hArFbhLFdR>4M!UrOaUlk3._%[_45ZU^MItu;sJ+.2T38q_LO=Vid7Rf/qQ9Om>,^R/Jmbng@,V3+kpaF`.FOGb8"EQYVR3keZT=o;902-0=N^$":Vl0KPQ+>c"ap6Q?_HoCrAYiMf-0@rudOTq@QCj2"a?>o1"t!,hs9Pd9IX@P>rs9R5n<s5)upch0_8'Xi.]`-1%eVD0_Xu`1q=&Msg5oXZa1%(qX)/ep#d;30lH+cc!CI(<E\F6?*IGD\j?EWW`URrZdaXjjo[Op5%Nun5`1&-+8S57A(?")2Yh+6d66TO2FRD]\%Q!21VL%:>fgCVu%)%C)hZd38,c>9J0\bJ;``;a73!E6eRYb4,HP?f@WC\1dU+LBg@-2='8rI!X:9s/PD<#Ai&YNX:ooFf18_iQeu`M2><Sni.RU0O^S4Gj&ftN2jlXg5SdMb.i_:Wj(2$5>pF4gc^T%l?:/[.W#=ObAj(F!mJ%+EnRW6XA'=8kg!C`oHi@,u)_=Y81`mdn`h?n:3E"FEfL'.UK7hr;(d/X^bYnbB[\,:^Ag`c];te->6!&@eR:+5q]Qsa6&%JH0?ss"YmL[">bhMdqHNnCNS)LDoedl^!(c:#4V;3]bD2_4OV5;638]"c'.jVk:-a4<geJpL"*VRf6%SJ#ZZQN#XjqA[dO8+W;j),b[K5%rJCYQ<CW+q<-ejbO<nMs\)NkcjRQ2"=c:LQHoZ#L:Pk-i'J$roTY]I96);JH$l[r\r%4#d'RG2Y!:jmk9JKuBnZiCl,/T8^"-f02Yr@2mOUiZ2(C6^EA2IfV3AN\1~>
+endstream
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 3029
+>>
+stream
+Gau0EgN)%<&q/A5oZL8a/doN:6r^QoNbkVVp$Ol'2Z)L#+YY0M!>l_2&B4VE4Zrm4PUssV6Mi7V[JP&Acfq$OI/FK@^I:N^dl!]2%k%_JH9jj``H;'0hHcb$3Up^<T?kTJc-e:=aNL>09G74#k7]MBbt1Q"i;$fGL(oDL''*b%%4-#\Kum(g9ii^[*Z=*KPC2$!MpaTV;t=B+oW_8`c/L.EDTNQD6-a2.0_Ouj%jJT&kk%c\7Gi6n2=sod5p&0g8?Jq98akAEeOoZPL)Dq:I:;>S/W4@@'uEqMrIM+9e+G4,@<\?jpYo>G4P]+p=@u2/B)Dj@VCC1@>*d07k!Ois@GH7.LDRn>+-IF0Go3?<eFG'I%F3jd'[.DZ0Oe-Z@ul(QcUt`+.p<J3cfIdS<iUKh`m]N-q5ti+*!@,ZNe[S_`(KZ(P/t8%-$2%s]M=mqiiIJoU+PX#l4;=K&Zr#>I=O"[i.YMG'DfLs@<p#LJ3@?XCokP8fUdf%6@GN5)9,pJFS[H-1:gd`>#_%Ne>WmWRS5)_OX1<.JlYd6ZD5.9i>,rX[b(;?GO)gi.T:8b==L*.rE).c;5NnSeV<I_dEiDrK)8Xg?E1ST>"I:;&nT`^5c?X!Nlnc(!<fEtb7D@L>0G4&\+]#Mm7jW>/JWF04&-=CKU&L7V#V38Vn0cg9s`d(kSb^QI]tiaU15E*4cHt(a46?eoSRLsW+91Kl\/4Q@Z;_hUG&QFe1*gcZ`[lW!J0&@+O03Z.r7epil5qJOJ5iSc,&@&#`LMQWbI.[^?sHbm!i(VrfE\*'er@b<*ttkap!\S86ZhNCtCpE_2Yog_Pe*'h+HtNAcbPf2B<L_ei=LGD.IjnH@p;:g-TIm`_imM!H9,JdIrRdWabH=[ogHoL0#$oAQFdY"?6N7s2f5%1p#P1,AKd"^`>B?%#@K2#WGqCWjX;TZ^T>ID,_Bia$IU'#!e_>@(<2elqaX8MLEYQ9=.Wj^q&GljjCj(Xm@)rV5kLUa%h@XG(chSAf^qK1/!WIY=#m+p$E4#4'UDEI7&&Z[9tt>5gW9ahSBRo#)R^\]!kdP-&NfQbOc"$((tV?(,Qg3B2C1YPD/9o)jLaHfAO(EIa/RQ:'l1Cs.l,sqNb-5j!'f*SUVoTkcJ&l"7?5q?cu<[;dHJ8g"/>T_/()E05/nr/q5^1)VM',bEmk#X+9FBH]M"*":Wu-74m4[H?<^dB:L%M*3)*o3NL**CB9q7+V##$gLt`=`[t]V:eMUZWn)VCBHQ.UnLX1(_&e+'fL^6?@;osG!XdR-$keXQ01_LQ^cqO`IEaW7b%Ap_&QuOSpg2rbL8/<mmup<RU9hTF.erq:FeUP&lm7-u<-JEZnIr!4.T']emV>2h;[W^]=<Mj'Ja`gNKF\mg4HK476FU&L41Q%pfqf6jVhMk(pL=%7*VJ(EaK4#$B5=>Y7,HL:U+ch^7l9gLhj7hUM81J1jS!*Y>`=t&<d&]CE/^p""`B.Y"\^BMqgJUoA*NMqP]S-P5$Y:C5qX[Jm<"9=.-A$C2lis%B@Zer6B>s6B'VeJL]ptME+l#tCRjQ(.-Uuodo]]M]G[)sE$o8RlP5d/DD?@=h.tU67c%:UTF*G!bC^ZPT'`aC>d%fVI8Am/Xa3o$SOENi0h:/9;2aOO8:AD(fC^8qFr]\OWo111Bl=7VI"=UUph(:%J@D'Ea:?Z]_0Op#5%BoP%W$'iP*X#L;>7@0XH0bqBf0Ju;Xi49itdpLjhYuo',6TW"!U3C4/1Z>#U@]j.$/IA7i6b!2J3M!*C=500_eCV%03X`b<$K$di4bd+U'QJa/ktGL0Rfa1J=pQNu.9i:u4Xe@kP9*ld4a7lgb9BD?pTBE,^st*6.-OO%CDV7YAn#\2aY"3<5C"5P?Z@e%`pSmj3g8O<e/$-/U7LZofp4]eiD2c;H;(rIiIJgbo0)`@J%7^W3TF[PKP[]kNk#]=%6]QK20eB@FLrk%2Z+R1D2HB&:7AcgTd]5!@B(n2T';ji_kN2q>T2r),A+%^Sa,#Gqj@4Ih?6SSW;hK#Ql@9XWJ;&9!l362]@.H-6epH?Q%pr%A?Rn?6]IN"bBSk(F;D@Cb4++-?(+6"/gjAJ%#Y#@DELhWD'JJ9h'prupKm'1_-#Yc(lEh&VF7]B#ETg`HqOjR^`FYtT_8m$HrW(Gd%"Fr<Ik25TB'^o!nDj>-]hj5HrI61Sn)fW3+o:/t@I/b=*X+e:naX;8%FAOOGFc-r*gC"e#9;p$<F,=_q:T433YB59B&4l80rnHHF%/T)=[eOmh"$gq=$K3QBZ@Pf+`!\&ou@s\3go%]XN_J,VeN4,6m58K;r9lW_P1$S*d)b4/i5Gf429<LmY&'<HLRuuSdpX*Q_<6^rdf<(uuk05LQ"Sa>-KWs"$AZ,CtIDP8LpIumDm/aX[\u7^2^JGB`CDm&fI/(Q>Vb:h$+b=>piDeTP!]T3Y6Bfhp-3'B!4I]-Ua6BL#>U\#7X%tr"&D^j.ck2>KQ%r/NNHC$6JEKlROO%;j)>L-ArRW>N;ouaSE'\6W>$k)N]B*o<M1sp<%O?=t&B0oD>ISuHnmCq]o5h*^OaGrs-\KZ,Po?.e=g,6ulu`(7Rf,a/GD88e+Hst(DL@IMN]6BJ\q[KEZGiA@q`T*`#.W.J)I.LK&)P9g9cjll$_s,r1ln%gG/sNhQ[_NA0)n+%,*:/Ul-b_e2_L(3MY8]J.u[W0/0C\Amg^5J_92p-fP$?%\=DA9G'k7n)ZIZGGJ\;7;*&3arR3:/m=C=lEVOZ3(d2E#2D]IZ>3Fb*/#e-CC9`lo-.lLB$SW=D>RSs5<pl)XgUaA39eFs!CpEa6L^_acHR3cXjUOH5^("_m"!ch""5@Q`\_;dC/qqukF/[i=oY+@XCFNm`<`op/VP//YZrTVL&[r<D.pLVKe@KS"NfsH<4488Z>hM%QX.B1:6Xc#IG!akT:454,o5d?XhMuMD7NiB+,(Y(JH70LPS$>qI!C;?CEmi/X4u_D+#_$7?\<6jAZ^49gnFlV&6*+5p\Z5(5P"6u##LYDEir~>
+endstream
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2559
+>>
+stream
+Gau`Vhf%7/&q8/60eWcB(QG0HZE@!61d0pR@^D'_mU^s"Q=sK^,cW,$2uD4q$mj);@QX!IJ.UA<7$7(\k2UDm-jOSdF3Ji+!;pU>QQI5e>aWgQnLYi[TAaC.pAN4("Elm.CGH4P-ibdk+u]eclbCcI!7kd/"HI'*?Kd"0>(I?B0bb2o^?#R4><1K2[5&rmLI1!$K&q]8A;=Rgpn3Uur+P):%`efrE*Ad&&3$t*2g.<N(3"^Sb+t>dQPr%Ac/;?SKI`=Q$b.W%=ioV5f8]!;=sk6V/"U;C/7CRQjY&=d#1Hoc6=5ag>Q2POG3.Ma"c'>6j*+Hrf-P1*7A4Wg2GPDE88iZ-&'OKQgBGdn@b1pY:!89A"C-Ct_3pBc>`[BT*a!A-P@^V:U2.l%Ppo8,.T*3^QK=O[\CuM?+-7FGhA2454&1HdG&;n!M"W895EY%aTH(cHL(Ks<)I/moY94D\!^WY5aNB`K*5>+:5CqrhZWYR*QnCDg`W?5)JbLJ.<mXKG]Vf]G8Bt,3KZHG27@g>Q$4W&m=MoI,1pG7&cEH^:#81q_$#Hl.I"=XN_-*b=f6%YklJS=49'R2hi('L&\on&i:5hS0h9USi;<`#j<9.Q,p,P'LT<dHg:o#g<_>d&^B\UcBp3573g^4#+i03AXZ%L0D6bW:9+5DcMd7Se"E8-bU@@?X?[\8r?H'jT96<#OZ1R@;1hrU^MDq7QlKuT+62u-.MTI&\c9#R;YM0tiU)l3D?/eqVX.ZQ&EG@Ha[h_^i"m>=HR5tNIK["!+9DaZW>'_qLt"P!\LAkFFDFD*J`/+S]lKt^86l@Q[j4'8aM95/O,MHi!p8X;[khRN\bEG<)[4/c\EDI:p__;s'R8$KD@E2pK$Wgja`N>GMhA[7Ppbl0HWaA\5MWc3Es(EE^8W*Et#KjLh1=2`!&>].6Q>5_gf7NtX4m\!rklf-3d\BN=*Irb/eM3+]_O$>*;27`D'7-&L<D9(gE8g07?p8pUmc9MTIa"8dCF53%JH;nFhJg%bq")B&%;4iiAO2+(EW54&S:bZt(XNSZ9D&0_cRLJ!k0UOSc/4%JhIsJU[RP?+@ArF]`fn4Ktqr&6A%B#lr-,\!(W#I9%*%3Ba7;6nDfUQG*1?3]*q8RqT/Ji\"iL1[RggO%N]&c7s@*>qtI:lXjheQP>FJ,@%1ZO^#$s+UPlWn-\[B+L#YUA.(o+NZ7S>&2ES<jRdAf%HVbG"Oq8$1nM6\/q""`]-0*)>]t<?XHe=cP-1Z="F.@Y&UP!\f"9QIQ;-(_4lYRZ%c8>g-:[U=N>(gT$RIaZL9=1QB5,I_NiCZ]OMQ1p[^nX,ZmM1")/(^Mo%d"?iEtXc%5'3lcW'br'>BAs]/I.-Dt[Rj!?20F8PYV-2q4MC.V]SUZ[3(]%ohg:B[m+1'FHb0i%<%YqunKnbb8@9^2'#9g[r22Pt'Z=KQ5MDhOnbB)$5d6o(5W%h1c2mLQZ'BZ!Z;JbWJfPZ<jkW3?Z!U/`$bc%scMDYu!m^S/;Qn7\^epm2\m8t+CCW\>*qH@]V0Y4'c953ng)XO$LG439(,6nEfP2C_`\^<:(,e)ZIDKO,M]BqPH)k1H'`V*K[oqp,IYJ!DH]kR,uIZkRd--"76`a(5;]ce[r[_(0ef#=$p(/T@%Z"a7:@)9Yhp(^lGp4!pH<;S[u-l1GLK&!4gk(HI-;_JnkBr&-L[7i8DQ(5TqpM_/L2)-faE@3cXKn="Y#/bJ9YZrO]A$DI]j/:)BbN]d^%JA^=cobjHhlo-K-O*i((#U^5E_i$G>^l<P5$jOLSA08!\Gj>dq<(FcAa(<5%0M$l\bbgW`[]CqN00As?Dm_lUhLhe#G>r3B`sE+CKXZ4$%G5;cEkJ\(fJS0*h%Um)uth!4\1c4NsK-1P4t(=1b$BG<G=ri:i0\6OlWi$rYu50dDT(h90YIpP0"P)N:K%\)11n6#G>A8irJ9rhJj*C([j?SgF`%tiQ'K)d?bb]nW;Z6AC4NO+n=T6aM@">L.4Qc#b>S?9U5jGO/$ZoP<R3$-q)f228C/].7SH=#;')X=ONXAX`b>J4_]oiHX3'r7(2cF5FG)Kb]>71ng%/Gmg:%*[i?KfoFf1p"U!)Z]L,3Vs&IiR"AP-dl/.d2iJ&Z%k,+fhaNU0k;pEUp[r2W;>%/FdlW,-?hftm[>f1AKMQ2XEl8&6CF*!*9K6OlSH.tjN6<eE:&m5Q7[\@sqW3"F5dt(Mr%+UXq("M>C=J6ECJo72e>eh;b-TWut^:C5oo,n"N?&<8pXND;)A-t:p:H1roh#N*Gc%hRtP9YBd?n!p39J=X9`CqRWoJ'?!6FWmJZRn&tVn<f'\DBDrrGCEh[OtE-bH(bJk9m(g;.NDV8JD]TQODPgS1og%;\>dX+"?gSlLqYHJ^aD=,Se5@Yne@9R$TZ+Y@2O#C(CrG(H'Ds6ITOqV@E@POr,>3+_GWY<7K4<j2coI/B6&3);DCfrQE'X1boulbj2.u9EVXL4BkR\%4NT-;\q3;,r.<iljAj;FdZap6/:4b/`:Z`aSC_V:i_ePbkkEkND2N`:)>ne$PZ;Re,~>
+endstream
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2332
+>>
+stream
+GauHLmrRNt&cM.4@f)iX\r7)V59s.i1c*88Y1$-,F_a]5e%0T&Oc[\P+rC<ec=u]rmor&OAQt2^W?'gJ(.f(iI;elI!YLF^0Cll9("%5H3rTsn'[qG$;(>J4s$.[g#<s5bHnq;T,k?=$B+koa,`=#`qYM?F`.Z\H/PREDNg"0NBe1UYCc\=+:"!"ZPFYneSK2OtaRC5dR;Gt9aY_8^;\CM`Nj2ELj_5?i\_n9uNLds2nPm`l=d79\7AKUg/UCo+lf`][,b5iZ-u8/BJj-OXFfX^gN\eCTp4]9J:)3H-/u5Ojqj-A/dekUR@<\8e/CHYOgg9/C?7<s>hY8%?).(ECVIe4UA7N,GX;JEdn3]V.C`JXpP?Al"n$k6P#qp8q0r?@3<8rR>),18D^(o8gBO+2"X55m@-n7&k([dSLq[JEq,.TEV8u!d:d.%sMYXSG>`_RqU?rTO=hZlOn@^bT9N1'9"cY1%idC80dULZreed^/q<n\tWP:]A;Jq_p??BTHm]6Ba,HLW6J>=%jQ;->P<7c-2jUiAL_TsZ?8(Ar\K>=kS^]Ioa!g#?5d]2Gg;k/Q88FmU[7".e.L$t%1NFjtX/O@kN=,7tL^Nl;rC>iI8mC,CHGCNCqrJDkaY&&VrLG<59\hSh/\2n[-RhSD?2qjoOrFmX/^VNY8DVnn&DT,P,eAgO!Hjf('L-H4@8)()(,7iZ3]AUZkj&nGMkN(V13=u7"Y@$IR&eN<GlId0q:55FXp>LUI\6FUONRIfZ8RT_<^jY?ZYY@QJYjdkpjVQ]12?@G6O^[9;;"UC!/]'GaI5L<:dp?)%'nnSRK[Q(o&(&rs[MPEI]5ptT!TfUfKL,uC3;AZol!^Bdo`;_b\1$D0:r+n5gGa08NWu>ZDO.>Ibq-3^a!$pO@#^_(,!/F(R#P,nke$h3Uq8<U0oaUTO&DoGhm6nbcgQQt?gu_kCAaRc5r8o1$qosWa/BK!/>]8=8b('5@Ick3-W)`#`cU[k5qQb26eq88T/;C^l]V.DcS\P+<,>RIjkP1E:,O78+rZMtL[A6"<DXZSt(.'q;VQU\9nZ+=&DI$BC^+3V_Vn;htI^s+;4mVs1nV-Tg=Zf=$?8E&bluV<8%fs>Q?h^8i922O3<9^7g)#-Xp8f;cl<0Y\&!r,*<HZ?Q`m(Gdk)0KapVkND@1T(pdK8YHO0<,#F;3lnX@_D&Q\@B6!E:r<I;+U7o8A5lPL$G+kKTckS%mH&6I9Zl;BeH^-N1IB'5pX>5mSV7EX5#9$_kt.;]_97>R7?@:QB=+VXkgWDK$9J7a?YB?JF>DBLC$I-W&8GB)W_^!RHl*NXuEcVD0%;mgL`%@/I4?d.L"BLFZ4Agh;Pm%O@*?9Q\C!lNCU_b99MFD9/L("HXU1).Ls&,_"@aaDUE;$K0AuH`Q@Fonc@FQ-#*Hf"tfEjE'*U>B3"T<26!.>^LDk!f2e#'T\)`;rBtk&)(g6j60_&c2qOb_5UoeOI(@M^-aY$g1tr?.f8m,AXh&[M&*mA$K/DqG13dBDA-.\oIPQ0&G)[tc!?pkJKdeP[UMo=!9sS/H^pVcajodI;N9D1@J((4j1R**Es!<%J]aqKsUN9$?6>"DbBRVNn:!:,MD7,A%>:hK(?U'ag<oqdbM"CC#%?(gMSel)4>Li)h*a^2tjgTof$YS#pNeKs.8YguWl<W%!W"mjqD[>I_\3l/KgbQM7iYetnB7@t.n>@"&1Pq*g.^9d@UfF!^#K@h2?L7W6!qg7HYoE[cYh`3eV)4;+04jd;KgV#o+Ina&`*A#C64Q?\Pqfp#1Is_%W(m4H_ToD.XC5OlB4)]Lq_3IJY<I3YWS=S"LZh/Po_HS/bPSVq*;\<MS5.k@A,BBgDc-2pjYQ6Fa03V-?T>:!XS?)+\'KBL_cGHkSq"*bpN5Gj4FKrn_kmJUgH*9t2O@4\p']%eL/\HP>?<`mRD/?SELrrr2TTs?3(Ir$`+EGea*ZUPl/X^i3Sg3,%!#!gL_/iUl)E="+r%h*(nL*^6skn8[72p9W`/]33YW(6l5%nPgK#71#XW=g$IMkWSca8.^F&$_=jjuN/gFSO2-Nl6E\*mQE!WC0PKFdu[mo[!,3Bcb0_;_cZ]4JcT3,^44qKMpQ=dY!L2f"m/S3gC[Mo1p)5rMcKMp;*7GiOTQ[RkM?8N+>m4KaE<:B^gcWV_N7uM/m%Z]hH\]s\n-@0h?C6<+[51Tq/7(qk([:6]n=b!\>rS)3j;(/VM`4<jejAjH1#7!%$-6([k@5EVB9/Q;)q0e>HTh:s^n51-.s0CgXoqu<=jjDL)[Fkp3;:t/7n^/hQD=24f9u24)S9MGjV1\dKL]$"f~>
+endstream
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2042
+>>
+stream
+Gatm;D,]1Y&H9tYfIs(u@h-1U1/40.8a%kW2AD["T(*fKftO+<mS8;el$r0i8X:q1M3AVXY`?E/h.N@.G3+=.hlcpKj8cqii8h`Yf7V0bgjfP^q&S<f%djj0*'3*s=<*C7-j2I%,;0JaqR6PB_W*o_U!"G%+*eEB/9Jq-1#rlM!V=11V$q5Og,gM6LR3tS)jihs,%h$05XPc0$DKNL>u1p_i3n)XQZs`5p;X6GP8jeiAWbJ7M8I%iDE(n#1(d^5@KGqUKe*@#4YNPkZq_%b<$IHGR;aCoiWpm'@.FuAY^MSqYTOFmr]O>1+X#XqnJ;8UD2DHJU/A]M#=D%&_TcfS?u@ZA4CFaFp>"%j=:U"+_9%B9DG7!R5/B"1(qdPnKN)Wq."E*_aLoY`NfdN.@8Y44(Q%AOoWhP_K8irMi49Mpm5aA@\b-Th%eskq39J)Fq3D^Yo;lkK60CAR+=W5Z>h#cnW4`'S&E95;$&sD[H(>f^ii1(2,)m&*;W7]Zd(geT0h$>;2@:*r.c>&=;fn*mD:k2M$3QprEF>R<iC\rPWH)m88?]P_(o?DMa?&ID-jpk<5/tpbGN06K2ejQ0OdV>keA6RA!!\F4/Xan$_!o\(])giV2X0J*Q@Fg\J]C[E#rPAu)?]d=JtHDX9U9g@2kpVb$_8@[a4V=0gO6GiXUj$+EJ)Bb0AU!Y_MeOY=-\hmV?B]b=QbD(qhC/(,%SZ6gU+&#1BA][PnrUX$VXR#ac=&NWR*u.H<+JLNV0IE:/I[`F%A'h28!3GPZVlLFs9!q(l,f$Rl^!kr#p<iZQaT0psTUG]N2qK<ZSBPWl8oVN^?soc`:VU`a0m.`%!%Z<Jb`a#ZZ\E9E=T!C<lQ&>X&Quo_fKu?06#1hFK<+i]CiCDj>>FIcK^-&&k]5)sca]<t^K,9TT$1VL9J#k;"hm)u<u(kabCS<XB\!U7KX]D+&i!>&gl27*)BSLBh2A;qC(eRkCcqe-uml^Ktroj5m\q-t^9Hci7JdN@#Kr*Gb?k`?QFeeTp]?E)S#.esM`X/YDb[[NCGh2VmiTFGW0H/eGM7(g?&q:h'p$V*m$c4`;:)5oCJN#XsShTd\^J;V@oNVM&-JU-.taA1QFan;6jX;_+OZS1i%uQb*%/;s3of<b2__OU@oooaoma.CK#b9L[OO:]D&"@3_aDjQUE?%cVil2B^m_l.7>13Q@KpoTJN%i4#(U%(AH:]]+ne7Eg2Jc'Q#K_u/-?oLD<52kE,]?6O(q4A8qq$iEk:Kg#02U5/Lm_1'[$V5T%"?EF@mV6EOujN%01oX_c]Z"MF6AX:hYE)$G')6VC^2QBB74BVa6"#n[$GZ&aB//mAH4LrAG.\2]c6`;b645)i^17\oP8&pE5(6;JAFTf4>gpjOV/V`#?8u'#aRhDfZ=:?OBUNEBQiM<F"M:H4*U-R)W>S7tbPo$GOi0]+hOB6euaGmhbF5JV!@s:YKB.AljK$YA)VNL2&@FI.Q6gW>iT5@u>&aUi3e%s!HC>7*=*$17pQDU5pon;H%%(<Bd@mA/rTtD&F-LEV\k+Xj<:H1H%CZNSD>kWqNI4%^ogb]MJE3Z]?.hLP`='-BSUg(2TTkePMmCaQn&%@9dRpB\@\o$@]\>o373R_J_'8!XtpTEh!%N,+H)ED.j=bq6ClPY?aXrDE/6-])g3Zrp]b[2#h2i(h@l>P7@pK$:"de=Vg\mI*>W:t2>4o2eaG-@&,iu!b&.1E(k'Z!;?kD?,cpY)LM/nbg7lEPK7&\SNjq=<SKbdkqgl%cWrmft[iE2l'ID)d!/.34-`)%5V<XZ<FSd/.$Ng4kd6DNJ*"@DuPNY@sb+B)>.!3+epFLrNeYN)+B2HN8+i,[$,si':\g'Ci?p9f]qW+rU&&9c_/HZQ.C=%QFmS$8lY35863r(+3<2#Rq-k>]0)6^$bP!8's7a\9IAu2(?@#BiKA@iDaQ..d7]l(gPA<%>^1.RA\34m(g*NDN$ki.-iFl2Xhi'>$`A7E.Gg4(>[oZRsG-;(:?+SMrX3M:H_4+bS"WV$?5JVVbXTi~>
+endstream
+endobj
+25 0 obj
+<<
+/Contents 26 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 27 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 10998
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .886275 .937255 RG
+.5 w
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.364706 .419608 .478431 rg
+BT 1 0 0 1 51.02362 26.92913 Tm (Concurrent Data Processing Engine \227 Product Specification) Tj T* ET
+BT 1 0 0 1 516.3145 26.92913 Tm (Page 10) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 764.7008 cm
+q
+.078431 .14902 .239216 rg
+BT 1 0 0 1 0 5 Tm /F2 18 Tf 23 TL (8. Testing and performance evaluation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 729.3008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 17.1 Tm /F1 9.3 Tf 13.2 TL (A concurrency project needs evidence. The benchmark is not just a speed number: it should help explain whether) Tj T* (parallelism is useful for the chosen workload.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 705.3008 cm
+q
+.141176 .341176 .654902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Correctness tests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 554.3008 cm
+q
+.078431 .14902 .239216 rg
+n 0 146 476.2205 -19.5 re f*
+1 1 1 rg
+n 0 126.5 476.2205 -29 re f*
+.94902 .960784 .976471 rg
+n 0 97.5 476.2205 -19.5 re f*
+1 1 1 rg
+n 0 78 476.2205 -19.5 re f*
+.94902 .960784 .976471 rg
+n 0 58.5 476.2205 -19.5 re f*
+1 1 1 rg
+n 0 39 476.2205 -19.5 re f*
+.94902 .960784 .976471 rg
+n 0 19.5 476.2205 -19.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 131.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.9 Tm /F2 7.6 Tf 9.5 TL (Test group) Tj T* ET
+Q
+Q
+q
+1 0 0 1 88.20472 131.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.9 Tm /F2 7.6 Tf 9.5 TL (Examples) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.6299 131.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.9 Tm /F2 7.6 Tf 9.5 TL (Expected result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 112 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (CSV parsing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 88.20472 102.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 11.4 Tm /F1 7.6 Tf 9.5 TL (Quoted comma, escaped quote, empty field,) Tj T* (malformed row.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.6299 112 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Correct parse or explicit, contextual error.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 83 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Operations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 88.20472 83 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Filter boundary, map conversion, sum/count/mean.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.6299 83 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Matches hand-calculated expected output.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Thread pool) Tj T* ET
+Q
+Q
+q
+1 0 0 1 88.20472 63.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Submit many tasks, throw in one task, shut down.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.6299 63.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (No lost tasks; errors observed; clean exit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Parallel equivalence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 88.20472 44 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Run same dataset sequentially and with 1/2/4 workers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.6299 44 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL -0.038662 Tw (Same rows and exact/tolerance-compliant aggregates.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 6 24.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Boundary sizes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 88.20472 24.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (0, 1, chunk_size-1, chunk_size, chunk_size+1 rows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.6299 24.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Correct result with no missing/duplicate records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 88.20472 5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Unwritable destination, empty result, existing output.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.6299 5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Clear failure or documented overwrite behavior.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.85098 .886275 .937255 RG
+.35 w
+n 0 146 m 476.2205 146 l S
+n 0 0 m 476.2205 0 l S
+n 0 0 m 0 146 l S
+n 476.2205 0 m 476.2205 146 l S
+n 0 126.5 m 476.2205 126.5 l S
+n 0 97.5 m 476.2205 97.5 l S
+n 0 78 m 476.2205 78 l S
+n 0 58.5 m 476.2205 58.5 l S
+n 0 39 m 476.2205 39 l S
+n 0 19.5 m 476.2205 19.5 l S
+n 82.20472 0 m 82.20472 146 l S
+n 280.6299 0 m 280.6299 146 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 530.3008 cm
+q
+.141176 .341176 .654902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Benchmark protocol) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 511.8008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Create or obtain reproducible datasets at several sizes, for example 100k, 1M, and 10M rows.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 493.3008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Implement a simple sequential baseline that performs the same parsing and operation semantics.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 462.3008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 15.9 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Warm up where appropriate and run each configuration multiple times; report median and spread, not only the best) Tj T* 8 0 Td (run.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 431.3008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 15.9 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Compare worker counts such as 1, 2, 4, and the number of available logical CPUs. Do not assume more threads are) Tj T* 8 0 Td (always faster.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 412.8008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Keep input, output, compiler build type, chunk size, and operation constant when comparing worker counts.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 394.3008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Separate end-to-end timing from processing-only timing if CSV I/O dominates.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 375.8008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Record machine/CPU, compiler, build flags, dataset size, and command used.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 351.8008 cm
+q
+.141176 .341176 .654902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Metrics to calculate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 248.6758 cm
+q
+.078431 .14902 .239216 rg
+n 0 98.125 476.2205 -19.625 re f*
+1 1 1 rg
+n 0 78.5 476.2205 -19.625 re f*
+.94902 .960784 .976471 rg
+n 0 58.875 476.2205 -19.625 re f*
+1 1 1 rg
+n 0 39.25 476.2205 -19.625 re f*
+.94902 .960784 .976471 rg
+n 0 19.625 476.2205 -19.625 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 83.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.925 Tm /F2 7.7 Tf 9.625 TL (Metric) Tj T* ET
+Q
+Q
+q
+1 0 0 1 93.87402 83.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.925 Tm /F2 7.7 Tf 9.625 TL (Definition) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 83.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.925 Tm /F2 7.7 Tf 9.625 TL (Interpretation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63.875 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.925 Tm /F1 7.7 Tf 9.625 TL (Throughput) Tj T* ET
+Q
+Q
+q
+1 0 0 1 93.87402 63.875 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.925 Tm /F1 7.7 Tf 9.625 TL (records processed / elapsed seconds) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 63.875 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.925 Tm /F1 7.7 Tf 9.625 TL (How much work completes per second.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44.25 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.925 Tm /F1 7.7 Tf 9.625 TL (Speedup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 93.87402 44.25 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.925 Tm /F1 7.7 Tf 9.625 TL (T_sequential / T_parallel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 44.25 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.925 Tm /F1 7.7 Tf 9.625 TL (How much faster parallel execution is.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.625 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.925 Tm /F1 7.7 Tf 9.625 TL (Parallel efficiency) Tj T* ET
+Q
+Q
+q
+1 0 0 1 93.87402 24.625 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.925 Tm /F1 7.7 Tf 9.625 TL (speedup / worker_count) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 24.625 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.925 Tm /F1 7.7 Tf 9.625 TL (How effectively added workers are used.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.925 Tm /F1 7.7 Tf 9.625 TL (Scaling curve) Tj T* ET
+Q
+Q
+q
+1 0 0 1 93.87402 5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.925 Tm /F1 7.7 Tf 9.625 TL (speedup vs. worker count) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.925 Tm /F1 7.7 Tf 9.625 TL (Shows diminishing returns or regressions.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.85098 .886275 .937255 RG
+.35 w
+n 0 98.125 m 476.2205 98.125 l S
+n 0 0 m 476.2205 0 l S
+n 0 0 m 0 98.125 l S
+n 476.2205 0 m 476.2205 98.125 l S
+n 0 78.5 m 476.2205 78.5 l S
+n 0 58.875 m 476.2205 58.875 l S
+n 0 39.25 m 476.2205 39.25 l S
+n 0 19.625 m 476.2205 19.625 l S
+n 87.87402 0 m 87.87402 98.125 l S
+n 243.7795 0 m 243.7795 98.125 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 218.6758 cm
+q
+.85098 .886275 .937255 RG
+.7 w
+.917647 .945098 .984314 rg
+n -8 -8 497.2283 42 re B*
+Q
+q
+.078431 .14902 .239216 rg
+BT 1 0 0 1 0 16.9 Tm /F1 9.1 Tf 13 TL (Example: if sequential execution takes 8 seconds and four-worker execution takes 3 seconds, speedup = 8 / 3 = 2.67\327) Tj T* (and parallel efficiency = 2.67 / 4 = 66.7%. Use measured values only.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 194.6758 cm
+q
+.141176 .341176 .654902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Performance pitfalls to discuss in README) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 176.1758 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 I/O-bound workloads may not improve much with more worker threads.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 157.6758 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Parsing, allocation, cache misses, and output serialization may dominate runtime.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 139.1758 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Tiny chunks create queue and scheduling overhead; large chunks may reduce load balance.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 120.6758 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 A shared aggregation lock can serialize work; prefer per-chunk partial results and a final merge.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 102.1758 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 On a laptop, thermal limits and background activity can make measurements noisy.) Tj T* 8 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 3 70 17 re
+f*
+0.364706 0.419608 0.478431 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 520.4845 26.92913 Tm
+(Page 9) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+28 0 obj
+<<
+/Contents 29 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 30 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+29 0 obj
+<<
+/Length 7363
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .886275 .937255 RG
+.5 w
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.364706 .419608 .478431 rg
+BT 1 0 0 1 51.02362 26.92913 Tm (Concurrent Data Processing Engine \227 Product Specification) Tj T* ET
+BT 1 0 0 1 516.3145 26.92913 Tm (Page 11) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 764.7008 cm
+q
+.078431 .14902 .239216 rg
+BT 1 0 0 1 0 5 Tm /F2 18 Tf 23 TL (9. Implementation plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 544.4508 cm
+q
+.078431 .14902 .239216 rg
+n 0 211.25 476.2205 -19.375 re f*
+1 1 1 rg
+n 0 191.875 476.2205 -28.75 re f*
+.94902 .960784 .976471 rg
+n 0 163.125 476.2205 -19.375 re f*
+1 1 1 rg
+n 0 143.75 476.2205 -28.75 re f*
+.94902 .960784 .976471 rg
+n 0 115 476.2205 -28.75 re f*
+1 1 1 rg
+n 0 86.25 476.2205 -28.75 re f*
+.94902 .960784 .976471 rg
+n 0 57.5 476.2205 -28.75 re f*
+1 1 1 rg
+n 0 28.75 476.2205 -28.75 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 196.875 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.875 Tm /F2 7.5 Tf 9.375 TL (Milestone) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.378 196.875 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.875 Tm /F2 7.5 Tf 9.375 TL (Build) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.6299 196.875 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.875 Tm /F2 7.5 Tf 9.375 TL (Done when) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 168.125 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 11.25 Tm /F1 7.5 Tf 9.375 TL (M1 \227 sequential) Tj T* (baseline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.378 168.125 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 11.25 Tm /F1 7.5 Tf 9.375 TL (CSV reader/writer, numeric parsing, one operation,) Tj T* (basic CLI.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.6299 177.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.875 Tm /F1 7.5 Tf 9.375 TL (Correct output on small fixtures; clear parse errors.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 148.75 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.875 Tm /F1 7.5 Tf 9.375 TL (M2 \227 chunk model) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.378 148.75 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.875 Tm /F1 7.5 Tf 9.375 TL (DataChunk, chunk IDs, fixed-size chunking.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.6299 148.75 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.875 Tm /F1 7.5 Tf 9.375 TL (Boundary-size tests pass.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 129.375 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.875 Tm /F1 7.5 Tf 9.375 TL (M3 \227 thread pool) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.378 120 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 11.25 Tm /F1 7.5 Tf 9.375 TL (Workers, queue, mutex, condition variable,) Tj T* (shutdown, futures.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.6299 129.375 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.875 Tm /F1 7.5 Tf 9.375 TL (Stress tests pass; no hangs or lost tasks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 100.625 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.875 Tm /F1 7.5 Tf 9.375 TL (M4 \227 parallel filter/map) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.378 91.25 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 11.25 Tm /F1 7.5 Tf 9.375 TL (One task per chunk, indexed result slots, ordered) Tj T* (output.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.6299 100.625 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.875 Tm /F1 7.5 Tf 9.375 TL (Parallel output matches sequential output.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 62.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 11.25 Tm /F1 7.5 Tf 9.375 TL (M5 \227 parallel) Tj T* (aggregation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.378 71.875 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.875 Tm /F1 7.5 Tf 9.375 TL (Per-chunk partials and final reduction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.6299 62.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 11.25 Tm /F1 7.5 Tf 9.375 TL (Aggregates match reference within defined numeric) Tj T* (tolerance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33.75 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 11.25 Tm /F1 7.5 Tf 9.375 TL (M6 \227 metrics and) Tj T* (benchmarks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.378 43.125 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.875 Tm /F1 7.5 Tf 9.375 TL (Timing, throughput, speedup, repeated runs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.6299 43.125 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.875 Tm /F1 7.5 Tf 9.375 TL (Benchmark script and documented environment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 14.375 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.875 Tm /F1 7.5 Tf 9.375 TL (M7 \227 polish) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.378 5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 11.25 Tm /F1 7.5 Tf 9.375 TL (CLI validation, error paths, README, examples,) Tj T* (CMake tests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286.6299 14.375 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.875 Tm /F1 7.5 Tf 9.375 TL (A new user can build and run it from the README.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.85098 .886275 .937255 RG
+.35 w
+n 0 211.25 m 476.2205 211.25 l S
+n 0 0 m 476.2205 0 l S
+n 0 0 m 0 211.25 l S
+n 476.2205 0 m 476.2205 211.25 l S
+n 0 191.875 m 476.2205 191.875 l S
+n 0 163.125 m 476.2205 163.125 l S
+n 0 143.75 m 476.2205 143.75 l S
+n 0 115 m 476.2205 115 l S
+n 0 86.25 m 476.2205 86.25 l S
+n 0 57.5 m 476.2205 57.5 l S
+n 0 28.75 m 476.2205 28.75 l S
+n 96.37795 0 m 96.37795 211.25 l S
+n 280.6299 0 m 280.6299 211.25 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 520.4508 cm
+q
+.141176 .341176 .654902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Definition of done) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 501.9508 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 A clean build works from documented instructions using CMake.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 483.4508 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 All automated tests pass on the target machine.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 464.9508 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Sequential and parallel versions agree on the same deterministic test fixtures.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 446.4508 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 The engine handles empty files, partial chunks, invalid columns, malformed rows, and task exceptions predictably.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 427.9508 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 A benchmark can be reproduced with a documented command and reports measured numbers.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 409.4508 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 The README explains architecture, thread safety, numeric limitations, design decisions, and known limitations.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 390.9508 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 No performance claim is made without showing the workload and measurement method.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 366.9508 cm
+q
+.141176 .341176 .654902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Suggested initial constraints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 321.3508 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 30.3 Tm /F1 9.3 Tf 13.2 TL (Use C++20, a fixed thread pool, a bounded chunk size, CSV input, and three operations \(filter, map/transform,) Tj T* (aggregate\). Start with numeric aggregates and stable row-preserving filter output. Add group-by only after the base) Tj T* (engine is correct.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 3 70 17 re
+f*
+0.364706 0.419608 0.478431 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 516.3145 26.92913 Tm
+(Page 10) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+30 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+31 0 obj
+<<
+/Contents 32 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 33 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 7788
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .886275 .937255 RG
+.5 w
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.364706 .419608 .478431 rg
+BT 1 0 0 1 51.02362 26.92913 Tm (Concurrent Data Processing Engine \227 Product Specification) Tj T* ET
+BT 1 0 0 1 516.3145 26.92913 Tm (Page 12) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 764.7008 cm
+q
+.078431 .14902 .239216 rg
+BT 1 0 0 1 0 5 Tm /F2 18 Tf 23 TL (10. Evaluation rubric and final checklist) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 600.2008 cm
+q
+.078431 .14902 .239216 rg
+n 0 155.5 476.2205 -19.5 re f*
+1 1 1 rg
+n 0 136 476.2205 -19.5 re f*
+.94902 .960784 .976471 rg
+n 0 116.5 476.2205 -29 re f*
+1 1 1 rg
+n 0 87.5 476.2205 -19.5 re f*
+.94902 .960784 .976471 rg
+n 0 68 476.2205 -29 re f*
+1 1 1 rg
+n 0 39 476.2205 -19.5 re f*
+.94902 .960784 .976471 rg
+n 0 19.5 476.2205 -19.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 141 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.9 Tm /F2 7.6 Tf 9.5 TL (Area) Tj T* ET
+Q
+Q
+q
+1 0 0 1 108.0472 141 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.9 Tm /F2 7.6 Tf 9.5 TL (Weight) Tj T* ET
+Q
+Q
+q
+1 0 0 1 164.7402 141 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.9 Tm /F2 7.6 Tf 9.5 TL (What strong work looks like) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 121.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Correctness) Tj T* ET
+Q
+Q
+q
+1 0 0 1 108.0472 121.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (30%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 164.7402 121.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (No missing/duplicated work; deterministic output; strong edge-case tests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 102 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Concurrency design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 108.0472 102 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (25%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 164.7402 92.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 11.4 Tm /F1 7.6 Tf 9.5 TL (Clear queue/worker lifecycle, correct synchronization, exception propagation, clean) Tj T* (shutdown.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 73 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Architecture and C++) Tj T* ET
+Q
+Q
+q
+1 0 0 1 108.0472 73 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (15%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 164.7402 73 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Separation of concerns, RAII, good interfaces, ownership clarity, modern C++.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 53.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Performance analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 108.0472 53.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (15%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 164.7402 44 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 11.4 Tm /F1 7.6 Tf 9.5 TL (Fair sequential baseline, repeated measurements, speedup/efficiency, bottleneck) Tj T* (discussion.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Usability and docs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 108.0472 24.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (10%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 164.7402 24.5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Clear CLI, useful errors, build instructions, example data and commands.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Engineering polish) Tj T* ET
+Q
+Q
+q
+1 0 0 1 108.0472 5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (5%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 164.7402 5 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Readable code, formatting, CI or repeatable tests, sensible scope.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.85098 .886275 .937255 RG
+.35 w
+n 0 155.5 m 476.2205 155.5 l S
+n 0 0 m 476.2205 0 l S
+n 0 0 m 0 155.5 l S
+n 476.2205 0 m 476.2205 155.5 l S
+n 0 136 m 476.2205 136 l S
+n 0 116.5 m 476.2205 116.5 l S
+n 0 87.5 m 476.2205 87.5 l S
+n 0 68 m 476.2205 68 l S
+n 0 39 m 476.2205 39 l S
+n 0 19.5 m 476.2205 19.5 l S
+n 102.0472 0 m 102.0472 155.5 l S
+n 158.7402 0 m 158.7402 155.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 576.2008 cm
+q
+.141176 .341176 .654902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Before calling the project complete) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 557.7008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Can you explain why the condition-variable wait uses a predicate?) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 539.2008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Can you show that the queue mutex is not held while a task runs?) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 520.7008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Can you explain how the pool drains tasks and shuts down?) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 502.2008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Can you prove that each chunk is processed exactly once in normal execution?) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 483.7008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Can you explain how task exceptions reach the caller?) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 465.2008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Can you show output equality against the sequential implementation?) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 446.7008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Can you explain why speedup is less than worker count and identify the likely bottleneck?) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 428.2008 cm
+q
+.141176 .203922 .278431 rg
+BT 1 0 0 1 13 3.4 Tm /F1 9.1 Tf 12.5 TL -8 0 Td (\177 Can another developer build and run the project without asking you for missing steps?) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 404.2008 cm
+q
+.141176 .341176 .654902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Recommended repository README outline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 287.3968 cm
+%PreformattedPara
+.121569 .160784 .215686 rg
+BT 1 0 0 1 0 104.104 Tm /F3 7.7 Tf 10.164 TL (# Concurrent Data Processing Engine) Tj T* (## Overview and goals) Tj T* (## Features and non-goals) Tj T* (## Requirements and build instructions) Tj T* (## CLI usage and examples) Tj T* (## Architecture and data flow) Tj T* (## Thread-pool design and shutdown semantics) Tj T* (## Correctness guarantees and numeric policy) Tj T* (## Tests) Tj T* (## Benchmark methodology and results) Tj T* (## Limitations and future work) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 263.3968 cm
+q
+.141176 .341176 .654902 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Final product definition) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 206.3968 cm
+q
+.85098 .886275 .937255 RG
+.7 w
+.917647 .945098 .984314 rg
+n -8 -8 497.2283 68 re B*
+Q
+q
+.078431 .14902 .239216 rg
+BT 1 0 0 1 0 42.9 Tm /F1 9.1 Tf 13 TL (The desired product is a small but credible systems project: a user-facing CSV processing tool backed by a reusable) Tj T* (C++ thread pool, chunk-based parallel operations, safe aggregation, explicit error behavior, tests, and defensible) Tj T* (performance measurements. Its strongest feature is not a large number of options; it is that the concurrency is correct,) Tj T* (the API is understandable, and the performance claims are supported by evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 188.3968 cm
+Q
+q
+1 0 0 1 57.02362 171.8968 cm
+q
+.364706 .419608 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL (End of specification) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 3 70 17 re
+f*
+0.364706 0.419608 0.478431 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 516.3145 26.92913 Tm
+(Page 11) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+33 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 34
+0000000000 65535 f 
+0000000015 00000 n 
+0000000209 00000 n 
+0000000339 00000 n 
+0000000388 00000 n 
+0000000587 00000 n 
+0000001726 00000 n 
+0000001788 00000 n 
+0000001895 00000 n 
+0000002007 00000 n 
+0000002112 00000 n 
+0000002196 00000 n 
+0000002397 00000 n 
+0000004642 00000 n 
+0000004843 00000 n 
+0000007758 00000 n 
+0000007959 00000 n 
+0000009937 00000 n 
+0000010138 00000 n 
+0000013260 00000 n 
+0000013461 00000 n 
+0000016113 00000 n 
+0000016314 00000 n 
+0000018739 00000 n 
+0000018940 00000 n 
+0000021075 00000 n 
+0000021342 00000 n 
+0000032394 00000 n 
+0000032502 00000 n 
+0000032769 00000 n 
+0000040185 00000 n 
+0000040293 00000 n 
+0000040560 00000 n 
+0000048401 00000 n 
+trailer
+<<
+/Size 34
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+48509
+%%EOF
