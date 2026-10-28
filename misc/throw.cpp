@@ -28,8 +28,8 @@ int main() {
 notes: 
 
 Three things happen here:
-1. try marks a block of code in which an exception may be thrown.
-2. throw transfers control to a matching handler, skipping the remaining normal statements in the affected functions.
-3. catch receives the exception and decides what to do about it.
-The e.what() call returns a descriptive message.
+    1. try marks a block of code in which an exception may be thrown.
+    2. throw transfers control to a matching handler, skipping the remaining normal statements in the affected functions.
+    3. catch receives the exception and decides what to do about it.
+    The e.what() call returns a descriptive message.
 */
