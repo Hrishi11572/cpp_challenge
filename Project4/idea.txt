@@ -1,0 +1,2 @@
+This project is going to be based on week 4. 
+The idea is to implement a thread pool.
