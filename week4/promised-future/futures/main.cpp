@@ -1,3 +1,4 @@
+
 #include <future>
 #include <iostream>
 
@@ -10,3 +11,9 @@ int main() {
 
     std::cout << result << '\n';  // 42
 }
+
+/*
+    - std::async(...) launches a task, potentially on another thread.
+    - std::future<int> represents the task's eventual integer result.
+    - f.get() obtains that result, waiting if necessary.
+*/
