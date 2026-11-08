@@ -1,0 +1,1 @@
+/*A functor stands for function object*/
